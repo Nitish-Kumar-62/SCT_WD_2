@@ -42,6 +42,9 @@
 
 # 👨‍💻 Author
  Nitish Kumar
+ 
   WEB DEVELOPMENT INTERN - SKILLCRAFT TECHNOLOGY 
+📧 Email:nitish62ni@gmail.com / nitish62rana@gmail.com
+🔗 GitHub:
   
  
