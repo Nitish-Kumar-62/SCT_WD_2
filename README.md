@@ -39,5 +39,9 @@
  2. Open the project folder
   
  3. Run  in any browser
- 
+
+# 👨‍💻 Author
+ Nitish Kumar
+  WEB DEVELOPMENT INTERN - SKILLCRAFT TECHNOLOGY 
+  
  
