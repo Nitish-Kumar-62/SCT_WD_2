@@ -40,8 +40,6 @@
            
             __
             
-            │
-
              ├── stopwatchpage1.png
              
              ├── stopwatchpage2.png
