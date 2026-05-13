@@ -34,8 +34,10 @@
 ├── stopwatchpage2.png
 
 # ▶ How to Run the Project
- Download or Clone the Repository
- Open the project folder
- Run  in any browser
+ 1. Download or Clone the Repository
+  
+ 2. Open the project folder
+  
+ 3. Run  in any browser
  
  
