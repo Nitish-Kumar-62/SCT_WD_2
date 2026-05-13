@@ -60,7 +60,7 @@
 
 🔗 GitHub:https://github.com/Nitish-Kumar-62/SCT_WD_2
 
-🌐 Live Project: 
+🌐 Live Project: https://nitish-kumar-62.github.io/SCT_WD_2/
 
 💼 LinkedIn: https://www.linkedin.com/in/nitish-kumar-0201n2005/
 
