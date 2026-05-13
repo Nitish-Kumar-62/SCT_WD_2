@@ -3,6 +3,7 @@
  Professional Stopwatch – Responsive Stopwatch Web Application
 # 📌 Project Overview
  Professional Stopwatch is a modern, interactive, and fully responsive stopwatch web application developed for the SkillCraft Technology Internship Task 2 (SCT_WD_2). using HTML, CSS, and JavaScript.
+ 
  The project provides a clean glassmorphism UI with stopwatch controls, lap recording functionality, and custom lap notes for a smooth and user-friendly experience across all devices.
 # 🚀 Features
 ✅ Start Stopwatch  
