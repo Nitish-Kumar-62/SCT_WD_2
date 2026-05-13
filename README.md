@@ -23,15 +23,28 @@
 # 🌐 Live Project
 👉 GitHub Repository:https://github.com/Nitish-Kumar-62/SCT_WD_2
 #  📂 Project Structure
+
  SCT_WD_2
+ 
 │
+
 ├── index.html
+
 ├── style.css
+
 ├── script.js
+
 ├── README.md
-│
-├── stopwatchpage1.png
-├── stopwatchpage2.png
+
+           |
+           
+            __
+            
+            │
+
+             ├── stopwatchpage1.png
+             
+             ├── stopwatchpage2.png
 
 # ▶ How to Run the Project
  1. Download or Clone the Repository
@@ -44,7 +57,9 @@
  Nitish Kumar
  
   WEB DEVELOPMENT INTERN - SKILLCRAFT TECHNOLOGY 
+  
 📧 Email:nitish62ni@gmail.com / nitish62rana@gmail.com
+
 🔗 GitHub:
   
  
