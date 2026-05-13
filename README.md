@@ -21,5 +21,21 @@
  - CSS3
  - JavaScript (Vanilla JS)
 # 🌐 Live Project
-👉 GitHub Repository:
+👉 GitHub Repository:https://github.com/Nitish-Kumar-62/SCT_WD_2
+#  📂 Project Structure
+ SCT_WD_2
+│
+├── index.html
+├── style.css
+├── script.js
+├── README.md
+│
+├── stopwatchpage1.png
+├── stopwatchpage2.png
+
+# ▶ How to Run the Project
+ Download or Clone the Repository
+ Open the project folder
+ Run  in any browser
+ 
  
