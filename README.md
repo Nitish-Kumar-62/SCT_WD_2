@@ -58,6 +58,11 @@
   
 📧 Email:nitish62ni@gmail.com / nitish62rana@gmail.com
 
-🔗 GitHub:
+🔗 GitHub:https://github.com/Nitish-Kumar-62/SCT_WD_2
+
+🌐 Live Project: 
+
+💼 LinkedIn: https://www.linkedin.com/in/nitish-kumar-0201n2005/
+
   
  
