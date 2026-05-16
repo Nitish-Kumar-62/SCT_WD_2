@@ -22,6 +22,7 @@
  - JavaScript (Vanilla JS)
 # 🌐 Live Project
  🌐 Live Project: https://nitish-kumar-62.github.io/SCT_WD_2/
+ 
 👉 GitHub Repository:https://github.com/Nitish-Kumar-62/SCT_WD_2
 #  📂 Project Structure
 
